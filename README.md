@@ -1,6 +1,6 @@
-# bankmanagement
-A simple bank management app
+# bankManagement
+A simple bank management system
 
-Kayombo, Edsamwel NIT/BIT/2018/808
+Kayombo, Edsamweli NIT/BIT/2018/808
 
 KHIYO Asifiwe M   NIT/BIT/2018/810
