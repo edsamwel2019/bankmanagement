@@ -39,7 +39,7 @@ public class LoginForm extends JFrame implements ActionListener{
         
         
         
-        lbl1 = new JLabel("WELCOME");
+        lbl1 = new JLabel("WELCOME TO BMS");
         lbl1.setFont(new Font("Osward", Font.BOLD, 38));
         
         lbl2 = new JLabel("Card/Account No:");
