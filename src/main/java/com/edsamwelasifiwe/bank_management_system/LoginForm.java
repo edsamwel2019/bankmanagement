@@ -121,7 +121,7 @@ public class LoginForm extends JFrame implements ActionListener{
             
             if(ae.getSource()==btn1){
                 if(rs.next()){
-                    new Transcations().setVisible(true);
+                    new TranscationFnctn().setVisible(true);
                     setVisible(false);
                 
                 }else{
@@ -132,7 +132,7 @@ public class LoginForm extends JFrame implements ActionListener{
                 tfld1.setText("");
                 pswdf2.setText("");
             }else if(ae.getSource()==btn3){
-                new Signup().setVisible(true);
+                new SignupForm1().setVisible(true);
                 setVisible(false);
             }
         }catch(Exception e){
